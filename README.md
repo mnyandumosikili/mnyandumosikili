@@ -13,14 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<<<<<<< HEAD
-##### I am currently learning "learn to cloud" as I want to be a cloud engineer. I am still learning and by the end of 2026 would like to see myself in the role 🌱. 
-=======
+
 👋 Hi, I’m Nokwanda — an aspiring Cloud Engineer / Cloud Security Engineer based in South Africa 🇿🇦
 
 ☁️ I’m currently taking part in the #100DaysOfCloud challenge, learning hands-on through the Learn to Cloud guide. My primary cloud provider is Microsoft Azure, where I’m building foundational skills and real-world projects along the way.
 
 📚 I’m still learning (and enjoying the process!), with a clear goal of stepping into a Cloud Engineering role by the end of 2026 🌱 Consistency, learning, and continuous improvement are my main focus.
 
-✨ Fun fact: I’ve started managing my life like a project — complete with planning, tracking, and milestones. The project is me. Let’s see how it goes by the end of the year 😄
->>>>>>> ad55124af9916ad04b53c096af0cfd596b8289c8
+✨ Fun fact: The project is me. Let’s see how it goes by the end of the year 😄
+
