@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 📚 I’m still learning, with a clear goal of stepping into a junior Cloud Engineering role by the end of 2026 🌱 Consistency is the main focus.
 
-✨ Fun fact: The project is me. Let’s see how it goes by the end of the year 😄
+
 
