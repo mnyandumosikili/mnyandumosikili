@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Nokwanda — an aspiring Cloud Engineer / Server Engineer based in South Africa 🇿🇦
+👋 I’m Nokwanda — an aspiring Cloud Engineer / Server Engineer based in South Africa 🇿🇦
 
 ☁️ I’m currently taking part in the #100DaysOfCloud challenge, learning hands-on through the Learn to Cloud guide. My primary cloud provider is Microsoft Azure, where I’m building foundational skills and real-world projects along the way.
 
